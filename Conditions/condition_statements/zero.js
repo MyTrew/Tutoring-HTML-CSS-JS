@@ -30,4 +30,10 @@ if (true) {
     console.log("bar");
   }
 
-  
+  if (true) {
+      console.log("I will succeed");
+  }
+
+  if (false) {
+      console.log("If I fail I will try again");
+  }
